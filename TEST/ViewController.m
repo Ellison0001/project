@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view.
     NSLog(@"分支1");
     NSLog(@"分支2");
+    NSLog(@"分支3");
 }
 
 
